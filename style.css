@@ -2,6 +2,12 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
+body {
+  background-color: antiquewhite;
+}
 canvas {
   display: block;
+  margin: auto;
+  margin-top: 10%;
 }
